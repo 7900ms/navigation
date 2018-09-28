@@ -23,7 +23,8 @@ https://www.youtube.com/watch?v=jkWuVCKpiXs
 
 分支：
 1. 多媒体
-2. ? media codecs & flash (Linux Mint team (an OS which uses Ubuntu as a base))
+2. ? media codecs & flash (Linux Mint team (an OS which uses Ubuntu as a base)) 
+3. Linux Mint 自带了多媒体功能 (比 Ubuntu 多出来的) ，可以自选 DE (Cinnamon, MATE, Xfce)
 https://askubuntu.com/questions/563274/is-there-an-equivalent-program-to-the-windows-explorer-for-ubuntu 
 
 分支：
