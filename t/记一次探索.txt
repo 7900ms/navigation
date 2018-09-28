@@ -34,7 +34,7 @@ https://askubuntu.com/questions/563274/is-there-an-equivalent-program-to-the-win
 (根系统版本 + DE => 满足 navi + 尽量少配置/开箱即用)
 1. 整合三角：适合的 navi + 多媒体 + 老电脑
 适合的 navi：Mac-Finder x, Gnome-Nautilus x, KDE-Dolphin OK, Cinnamon-Nemo OK, MATE-Caja OK(HUD), Xfce-Thunar OK, LXDE-PCManFM OK 
-多媒体：Linux Mint (可选 Cinnamon, MATE, xfce)
+多媒体：Linux Mint (可选 Cinnamon, MATE, xfce), U盘安装：MX Linux (可选 xfce)
 老电脑：xfce (over MATE, Cinnamon, Unity) (shipped with Ubuntu, Fedora, CentOS, Debian, Linux Mint ...)
 2. 合适的 mavi 是 DE 定的：xfce (same as KDE Cinnamon MATE LXDE, over Unity Mac)
 3. 多媒体 - 自带闭源解码器，是 发行版定的：Linux Mint (Over Ubuntu)
