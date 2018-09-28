@@ -1,0 +1,23 @@
+
+寻找一个 Image Viewer 的软件的发现
+
+发现：
+1. 是需要一个 Image Viewer 的软件
+2. 可以感受到 它是在一个 “通解” 里 (这个通解 提供了日常桌面的常用的东西，比如 Windows 自带的 资源管理器、图片预览)
+3. 可以感受到 是有一群人 在运行这个东西 (比如 他们有一台老旧电脑)(他们是某某爱好者：xfce 爱好者、Win资源管理器爱好者)
+
+分支：
+1. 对于 linux distro, 应该是有哪些发行版，把 xfce 当作默认 desktop environment (DE)？ // Xubuntu, Fedora-Xfce-spin, 
+2. 这些桌面发行版，应该是 Server + xfce + xfce4-goodies
+https://www.reddit.com/r/xfce/comments/9bakaz/need_a_pure_xfce_distro_for_dell_inspiron_5559/
+
+发现：
+1. xfce4-goodies
+https://packages.debian.org/wheezy/xfce4-goodies 
+2. MX Linux
+https://www.reddit.com/r/xfce/comments/9bakaz/need_a_pure_xfce_distro_for_dell_inspiron_5559/
+3. MX Linux 的社区支持
+
+
+
+-
