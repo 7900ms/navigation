@@ -41,6 +41,7 @@ https://askubuntu.com/questions/563274/is-there-an-equivalent-program-to-the-win
 5. 性能 和 占用内存
 https://www.v2ex.com/t/353053
 https://www.v2ex.com/t/339909 # Linux Mint x ???Cinnamon
+6. 别人配置好的：Mint 的作用就是一个预先配置好的 ubuntu 
 
 分支：
 1. 对于 linux distro, 应该是有哪些发行版，把 xfce 当作默认 desktop environment (DE)？ // Xubuntu, Fedora-Xfce-spin, LinuxMint-Xfce-spin, 
