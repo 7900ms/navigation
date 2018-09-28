@@ -58,7 +58,7 @@ https://www.reddit.com/r/xfce/comments/9bakaz/need_a_pure_xfce_distro_for_dell_i
 https://packages.debian.org/wheezy/xfce4-goodies 
 2. MX Linux
 https://www.reddit.com/r/xfce/comments/9bakaz/need_a_pure_xfce_distro_for_dell_inspiron_5559/
-3. MX Linux 的社区支持
+3. MX Linux 的社区支持 (类似 Linux Mint)
 https://www.cmscritic.com/mx-linux-17-review/
 
 
