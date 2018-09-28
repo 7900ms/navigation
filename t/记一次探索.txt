@@ -28,7 +28,13 @@ https://www.youtube.com/watch?v=jkWuVCKpiXs
 4. Cinnamon (Linux Mint 默认DE) 和 Unity(Ubuntu 默认DE) 基于 GNOME3
 https://askubuntu.com/questions/563274/is-there-an-equivalent-program-to-the-windows-explorer-for-ubuntu 
 5. Debian 没有 PPA
-6. DE cinnamon vs mate vs xfce: cinnamon/Unity 基于 GNOME3，MATE 基于 GNOME2
+6. DE cinnamon vs mate vs xfce: cinnamon/Unity 基于 GNOME3，MATE 基于 GNOME2，xfce 适合老电脑
+
+分支：
+1. 整合三角：适合的 navi + 多媒体 + 老电脑
+适合的 navi：Mac-Finder x, Gnome-Nautilus x, KDE-Dolphin OK, Cinnamon-Nemo OK, MATE-Caja OK(HUD), Xfce-Thunar OK, LXDE-PCManFM OK 
+多媒体：Linux Mint (可选 Cinnamon, MATE, xfce)
+老电脑：xfce (over MATE, Cinnamon, Unity) (shipped with Ubuntu, Fedora, CentOS, Debian, Linux Mint ...)
 
 分支：
 1. 对于 linux distro, 应该是有哪些发行版，把 xfce 当作默认 desktop environment (DE)？ // Xubuntu, Fedora-Xfce-spin, LinuxMint-Xfce-spin, 
