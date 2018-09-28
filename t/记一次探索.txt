@@ -31,7 +31,7 @@ https://askubuntu.com/questions/563274/is-there-an-equivalent-program-to-the-win
 6. DE cinnamon vs mate vs xfce: cinnamon/Unity 基于 GNOME3，MATE 基于 GNOME2，xfce 适合老电脑
 
 == 分 支 - 整合三角 ==
-(根系统版本 + DE => 满足 navi )
+(根系统版本 + DE => 满足 navi + 尽量少配置/开箱即用)
 1. 整合三角：适合的 navi + 多媒体 + 老电脑
 适合的 navi：Mac-Finder x, Gnome-Nautilus x, KDE-Dolphin OK, Cinnamon-Nemo OK, MATE-Caja OK(HUD), Xfce-Thunar OK, LXDE-PCManFM OK 
 多媒体：Linux Mint (可选 Cinnamon, MATE, xfce)
