@@ -43,7 +43,7 @@ https://askubuntu.com/questions/563274/is-there-an-equivalent-program-to-the-win
 https://www.v2ex.com/t/353053
 https://www.v2ex.com/t/339909 # Linux Mint x ???Cinnamon
 6. 别人配置好的：Mint 的作用就是一个预先配置好的 ubuntu 
-7. 接受帮助，但又没有太接受帮助 - 因为是我熟悉的领域 (比如 可以想到用 jenv 来做版本变化 - 因为对乌七八糟的办法 本身是拒绝的)
+7. 接受帮助，但又没有太接受帮助 - 因为是我熟悉的领域 (比如 可以想到用 jenv 来做版本变化 - 因为对乌七八糟的办法 本身是拒绝的。大众里的小众)
 
 分支：
 1. 对于 linux distro, 应该是有哪些发行版，把 xfce 当作默认 desktop environment (DE)？ // Xubuntu, Fedora-Xfce-spin, LinuxMint-Xfce-spin, 
