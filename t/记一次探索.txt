@@ -7,6 +7,12 @@
 3. 可以感受到 是有一群人 在运行这个东西 (比如 他们有一台老旧电脑)(他们是某某爱好者：xfce 爱好者、Win资源管理器爱好者)
 
 分支：
+1. 对于 “Navigation” 的感受，Windows 资源管理器 和 xfce thunar 是类似的
+https://www.pin-cong.com/p/137193/
+2. 尝试 这些 资源管理器，发现 相似度
+https://www.zdnet.com/article/fedora-24-comparing-gnome-kde-plasma-cinnamon-mate-xfce-lxde/ 
+
+分支：
 1. 对于 linux distro, 应该是有哪些发行版，把 xfce 当作默认 desktop environment (DE)？ // Xubuntu, Fedora-Xfce-spin, 
 2. 这些桌面发行版，应该是 Server + xfce + xfce4-goodies
 https://www.reddit.com/r/xfce/comments/9bakaz/need_a_pure_xfce_distro_for_dell_inspiron_5559/
