@@ -14,6 +14,7 @@ Mac-Finder x, Gnome-Nautilus x, KDE-Dolphin x, Linux Mint-Nemo OK, MATE-Caja OK(
 https://www.zdnet.com/article/fedora-24-comparing-gnome-kde-plasma-cinnamon-mate-xfce-lxde/ 
 - Nemo OK: (tree view) http://www.ubuntubuzz.com/2015/10/basic-guide-for-nemo-file-manager.html
 - Nautilus x: (tree view) http://www.ubuntubuzz.com/2015/10/how-to-use-ubuntu-file-manager-nautilus.html
+- KDE OK: (tree view) http://www.ubuntubuzz.com/2015/10/how-to-use-kde-file-manager-dolphin.html
 3. 真的是瞎子指路
 https://www.pin-cong.com/p/137193/
 https://www.youtube.com/watch?v=jkWuVCKpiXs
