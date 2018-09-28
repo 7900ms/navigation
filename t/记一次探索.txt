@@ -10,7 +10,11 @@
 1. 对于 “Navigation” 的感受，Windows 资源管理器 和 xfce thunar 是类似的
 https://www.pin-cong.com/p/137193/
 2. 尝试 这些 资源管理器，发现 相似度
+Mac-Finder x, Gnome-Nautilus x, KDE-Dolphin x, Linux Mint-Nemo x, MATE-Caja OK, Xfce-Thunar OK, LXDE-PCManFM OK
 https://www.zdnet.com/article/fedora-24-comparing-gnome-kde-plasma-cinnamon-mate-xfce-lxde/ 
+3. 真的是瞎子指路
+https://www.pin-cong.com/p/137193/
+https://www.youtube.com/watch?v=jkWuVCKpiXs
 
 分支：
 1. 对于 linux distro, 应该是有哪些发行版，把 xfce 当作默认 desktop environment (DE)？ // Xubuntu, Fedora-Xfce-spin, 
