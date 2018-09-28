@@ -35,6 +35,9 @@ https://askubuntu.com/questions/563274/is-there-an-equivalent-program-to-the-win
 适合的 navi：Mac-Finder x, Gnome-Nautilus x, KDE-Dolphin OK, Cinnamon-Nemo OK, MATE-Caja OK(HUD), Xfce-Thunar OK, LXDE-PCManFM OK 
 多媒体：Linux Mint (可选 Cinnamon, MATE, xfce)
 老电脑：xfce (over MATE, Cinnamon, Unity) (shipped with Ubuntu, Fedora, CentOS, Debian, Linux Mint ...)
+2. 合适的 mavi 是 DE 定的：xfce (same as KDE Cinnamon MATE LXDE, over Unity Mac)
+3. 多媒体 - 自带闭源解码器，是 发行版定的：Linux Mint (Over Ubuntu)
+4. 老电脑 是 DE 定的：xfce (over Cinnamon MATE)
 
 分支：
 1. 对于 linux distro, 应该是有哪些发行版，把 xfce 当作默认 desktop environment (DE)？ // Xubuntu, Fedora-Xfce-spin, LinuxMint-Xfce-spin, 
