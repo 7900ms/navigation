@@ -17,8 +17,15 @@
 
 发现：
 1. navigate 的储物上，可以让所有东西都是可 navi 的
+2. "navigableDisk", "innavigableDisk"
+3. navigation GOOD tools: 
+Windows: file explorer
+Linux: thunar (KDE-Dolphin OK, Cinnamon-Nemo OK, MATE-Caja OK(HUD), Xfce-Thunar OK, LXDE-PCManFM OK)
+Mac: XFile
 
-发现：
+
+
+寻找和找到：
 G mac file explorer (主打 navigation 的，主打 文件展示的)
 https://www.slant.co/topics/3924/~best-mac-file-managers 
 
@@ -26,7 +33,7 @@ https://www.slant.co/topics/3924/~best-mac-file-managers
 先理解，再解决。Understand it, get started 
 https://www.macforbeginners.com/osx-guide/browsing-through-files/
 
-发现：
+发现 - GOOD tools’ requirement：
 1. 内存占用：mac原生软件 < homebrew/macport 软件 < crossover < docker < 虚拟机(PD)
 2. 软件方面，自带的 file explorer 来自 crossover
 3. 软件安装方面，安装 thunar 可以从 ~homebrew~ 或 macport 
@@ -35,15 +42,16 @@ mac原生软件：
 ~Flow(ftp)~, Macintosh Explorer, Magican File, XFile(配合Finder 配合“> open .”)
 
 homebrew/macport 软件:
-thunar
+thunar (不好，因为 依赖太多 dependencies)
 
 crossover:
-windows file explorer
+windows file explorer (软件很卡 因为虚拟化技术？)
 
-docker:
+docker: (占内存)
 https://www.youtube.com/watch?v=_Vmwz_761GM # [Docker] Nemo and Nautilus on Windows (Works for Mac)
 
-PD:
+PD: (占内存)
+Xubuntu xfce-thunar
 
 
 
