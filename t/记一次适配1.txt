@@ -30,6 +30,10 @@ sudo chown -R $USER:staff /Volumes/navigableDisk
 chmod 0700 /Volumes/innavigableDisk
 chmod 0700 /Volumes/navigableDisk
 
+4.
+maintain 目录
+C:/User/Administrator/Desktop
+
 
 
 
