@@ -8,11 +8,27 @@
 XFile
 XFile Test Drive 
 
-2.
+2. (跳过)
 /Volumes，建立 目录 "navigableDisk", "innavigableDisk"
 
+2.
+建立目录 "Z" 作为 "navigableDisk"
+sudo mkdir -p /Z
+sudo chown -R $USER:staff /Z
+
 3.
+更多目录
+Local Disk (C：)
+Floppy Disk Drive (A：)
+
+3.(跳过)
 改变 文件夹属性
+改为和 ~/Downloads 一样就可以 ( 文件夹本身 700 sysadmin staff, 内部文件 644 sysadmin staff)
+改之前 ( 文件夹本身 755 sysadmin admin, 内部文件 644 sysadmin admin) // 需要每次输入  admin密码
+sudo chown -R $USER:staff /Volumes/innavigableDisk
+sudo chown -R $USER:staff /Volumes/navigableDisk
+chmod 0700 /Volumes/innavigableDisk
+chmod 0700 /Volumes/navigableDisk
 
 
 
