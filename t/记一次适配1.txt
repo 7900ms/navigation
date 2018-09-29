@@ -32,7 +32,10 @@ chmod 0700 /Volumes/navigableDisk
 
 4.
 maintain 目录
-C:/User/Administrator/Desktop
+各个盘
+Local Disk (C：)  C盘
+Remote Device (Screen)  C:/User/Administrator/Desktop
+
 
 
 
