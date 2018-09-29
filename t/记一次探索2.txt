@@ -19,8 +19,13 @@
 1. navigate 的储物上，可以让所有东西都是可 navi 的
 
 发现：
-1. 软件方面，自带的 file explorer 来自 crossover
-2. 软件安装方面，安装 thunar 可以从 homebrew 或 macport 
+G mac file explorer (主打 navigation 的，主打 文件展示的)
+https://www.slant.co/topics/3924/~best-mac-file-managers 
+
+发现：
+1. 内存占用：mac原生软件 < crossover < docker < 虚拟机(PD)
+2. 软件方面，自带的 file explorer 来自 crossover
+3. 软件安装方面，安装 thunar 可以从 ~homebrew~ 或 macport 
 
 
 
