@@ -1,0 +1,32 @@
+
+结果区
+
+查看区
+
+配置区
+1.
+XFile
+XFile Test Drive 
+
+2.
+/Volumes，建立 目录 "navigableDisk", "innavigableDisk"
+
+3.
+改变 文件夹属性
+
+
+
+
+学习区
+
+
+
+
+
+
+
+
+
+
+
+-
