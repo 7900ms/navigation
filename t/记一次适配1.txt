@@ -35,7 +35,7 @@ chmod 0700 /Volumes/navigableDisk
 
 学习区
 
-
+windows 目录结构
 
 
 
