@@ -31,11 +31,14 @@ chmod 0700 /Volumes/innavigableDisk
 chmod 0700 /Volumes/navigableDisk
 
 4.
-maintain 目录
+maintain 目录，maintain navigation 的感觉
 各个盘
 Local Disk (C：)  C盘
 Remote Device (Screen)  C:/User/Administrator/Desktop
-
+Downloads
+Desktop
+KugouMusic
+TDownloads
 
 
 
