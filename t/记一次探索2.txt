@@ -32,7 +32,7 @@ https://www.macforbeginners.com/osx-guide/browsing-through-files/
 3. 软件安装方面，安装 thunar 可以从 ~homebrew~ 或 macport 
 
 mac原生软件：
-~Flow(ftp)~, Macintosh Explorer, Magican File, XFile
+~Flow(ftp)~, Macintosh Explorer, Magican File, XFile(配合Finder 配合“> open .”)
 
 homebrew/macport 软件:
 thunar
