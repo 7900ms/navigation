@@ -28,7 +28,7 @@ https://www.slant.co/topics/3924/~best-mac-file-managers
 3. 软件安装方面，安装 thunar 可以从 ~homebrew~ 或 macport 
 
 mac原生软件：
-Flow(ftp), XFile
+~Flow(ftp)~, XFile
 
 homebrew/macport 软件:
 thunar
