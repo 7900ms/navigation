@@ -41,6 +41,8 @@ crossover:
 windows file explorer
 
 docker:
+https://www.youtube.com/watch?v=_Vmwz_761GM # [Docker] Nemo and Nautilus on Windows (Works for Mac)
+
 PD:
 
 
